@@ -3,5 +3,6 @@ int main()
 {
   int y;
   y=0;
-  printf("Hello World!%d\n,d);
+  printf（“Hello World！％d \ n，d）；
+  return 0;
 }
