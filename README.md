@@ -2,6 +2,6 @@
 int main()
 {
   int y;
-  y=0_0;
+  y=0;
   printf("Hello World!%d\n,d);
 }
