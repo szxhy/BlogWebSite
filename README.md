@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-inty;
-  printf("Hello World!\n");
+  int y;
+  y=0_0;
+  printf("Hello World!%d\n,d);
 }
